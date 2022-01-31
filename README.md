@@ -6,7 +6,7 @@ This site was used as a demo for Cloud Summit 2021 session on **Deploy your web 
 
 View session recording [here](https://azuresummit.live/deploy-your-web-application-with-azure-app-service-github-actions-by-sagar-uprety/)
 
-##Installation
+## Installation
 
 To run this project on your local machine, run the following commands.
 
